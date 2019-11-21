@@ -2,6 +2,7 @@
 - Buka direktory aktif lalu klik kanan dan pilih Git Bash Here
 ![1](https://user-images.githubusercontent.com/56815154/69341047-5d1f0680-0c9b-11ea-9ebb-277fd389b0b6.jpg)
 - Buatkan direktory project, ketik: mkdir Latihan1
+
 ![2](https://user-images.githubusercontent.com/56815154/69341048-5db79d00-0c9b-11ea-86ef-e6fe2419227f.jpg)
 - Masuk kedalam direktory yang baru dibuat, ketik: cd Latihan1
 ![3](https://user-images.githubusercontent.com/56815154/69341049-5db79d00-0c9b-11ea-8cbe-679deb5eaebf.jpg)
