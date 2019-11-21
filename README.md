@@ -8,7 +8,7 @@
 ![3](https://user-images.githubusercontent.com/56815154/69341049-5db79d00-0c9b-11ea-8cbe-679deb5eaebf.jpg)
 - Buatkan repository lokal, ketik: get init
 ![4](https://user-images.githubusercontent.com/56815154/69341050-5db79d00-0c9b-11ea-95c5-627fea0c82c7.jpg)
-  nanti akan muncul directory hidden dengan nama .git
+nanti akan muncul directory hidden dengan nama .git
 ![5](https://user-images.githubusercontent.com/56815154/69341051-5e503380-0c9b-11ea-8d09-c5203114a532.jpg)
 - Buatkan file README.md menggunakan notepad
 ![6](https://user-images.githubusercontent.com/56815154/69341052-5ee8ca00-0c9b-11ea-9530-cb06331837e4.jpg)
